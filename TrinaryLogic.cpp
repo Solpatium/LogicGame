@@ -13,12 +13,13 @@ TrinaryLogic::TrinaryLogic()
     Or[0][0] = F;
     Or[2][2] = Or[2][0] = Or[0][2] = U;
     //And
-    And[1][1] = And[1][2] = And[2][1] = T;
-    And[1][0] = And[0][1] = And[0][0] = F;
-    And[2][2] = And[2][0] = And[0][2] = U;
+    And[1][1] = T;
+    And[2][0] = And[0][2] = And[1][0] = And[0][1] = And[0][0] = F;
+    And[2][2] = And[1][2] = And[2][1] = U;
     //Impl
-    Impl[0][0] = Impl[1][0] = Impl[0][1] = Impl[1][1] = Impl[2][2] = Impl[2][0] = Impl[0][2] = T;
-    Impl[1][0] = Impl[1][2] = Impl[2][1] = F;
+    Impl[0][0] = Impl[0][1] = Impl[1][1] = Impl[0][2] = Impl[2][1] = T;
+    Impl[1][0] = F;
+    Impl[2][0] = Impl[2][2] = Impl[1][2] = U;
     
 }
 
