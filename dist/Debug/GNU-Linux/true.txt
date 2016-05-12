@@ -1,25 +1,24 @@
-T The Earth's atmosphere is comprised of approximately 78% nitrogen.
-T The Earth's atmosphere is comprised of approximately 21% oxygen.
-T The average distance between the Earth and the Sun is 149 598 261 km.
-T The moon is Earth's natural satellite.
-T The moon is lighter than the Earth.
-T The moon is smaller than the Earth.
-T Hydrochloric acid's formula is HCL.
-T In CSS rule "h1{color:blue;} h1 means selector.
-T Wordpress is a content management system (CMS).
-T Joomla is a content management system (CMS).
-T var x="false"; in JavieScript creates a string.
-T Process of finding and deleting mistajes in program is called debugging.
-T December is the first month of the year.
-T Wood floats on water.
-T Every rectangle has 4 sides.
-T Every square is a rectangle.
-T Circle can be filled in every triangle.
-T Nothing can travel faster than light.
-T 3 + 3 = 6
-T 2 + 2 * 2 = 6
-T The conjunction of false sentences is false.
-T Negation can be replaced by other logical operators.
-T Ruby is object oriented programming language. 
-T 2016 is a leap-year
-T
+The Earth's atmosphere is comprised of approximately 78% nitrogen.
+The Earth's atmosphere is comprised of approximately 21% oxygen.
+The average distance between the Earth and the Sun is 149 598 261 km.
+The moon is Earth's natural satellite.
+The moon is lighter than the Earth.
+The moon is smaller than the Earth.
+Hydrochloric acid's formula is HCL.
+In CSS rule "h1{color:blue;} h1 means selector.
+Wordpress is a content management system (CMS).
+Joomla is a content management system (CMS).
+var x="false"; in JavieScript creates a string.
+Process of finding and deleting mistajes in program is called debugging.
+December is the first month of the year.
+Wood floats on water.
+Every rectangle has 4 sides.
+Every square is a rectangle.
+Circle can be filled in every triangle.
+Nothing can travel faster than light.
+3 + 3 = 6
+2 + 2 * 2 = 6
+The conjunction of false sentences is false.
+Negation can be replaced by other logical operators.
+Ruby is object oriented programming language.
+2016 is a leap-year

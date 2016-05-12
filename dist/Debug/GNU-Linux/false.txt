@@ -1,17 +1,17 @@
-F In CSS rule "h2{color:red;} h2 means class.
-F Apache is a content management system (CMS).
-F CSS is a content management system (CMS).
-F var x="true"; in JavieScript creates a logic value;
-F Process of finding and deleting mistajes in program is called compiling.
-F Calling function from itself is called iteration.
-F PHP code used on a webpage is executed on client's side.
-F Paper is not inflammable.
-F Humans see in the infrared.
-F Name Wacław starts with a vowel.
-F Square has 3 sides.
-F Every rectangle is a square.
-F Cirle can be filled in every trapeze.
-F Cracow is the capital of Poland.
-F 2016 is not a leap-year
-F Cat has 6 legs
-F Word "April" starts with a consonant.
+In CSS rule "h2{color:red;} h2 means class.
+Apache is a content management system (CMS).
+CSS is a content management system (CMS).
+var x="true"; in JavieScript creates a logic value;
+Process of finding and deleting mistajes in program is called compiling.
+Calling function from itself is called iteration.
+PHP code used on a webpage is executed on client's side.
+Paper is not inflammable.
+Humans see in the infrared.
+Name Wacław starts with a vowel.
+Square has 3 sides.
+Every rectangle is a square.
+Cirle can be filled in every trapeze.
+Cracow is the capital of Poland.
+2016 is not a leap-year
+Cat has 6 legs
+Word "April" starts with a consonant.
